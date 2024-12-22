@@ -8,3 +8,5 @@ faiss-cpu
 ipykernel
 python-dotenv
 langchain-groq
+streamlit
+duckduckgo-search
