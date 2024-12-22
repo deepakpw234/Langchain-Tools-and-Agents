@@ -1,0 +1,10 @@
+langchain
+langchain_community
+arxiv
+wikipedia
+langchain-huggingface
+langchain-openai
+faiss-cpu
+ipykernel
+python-dotenv
+langchain-groq
